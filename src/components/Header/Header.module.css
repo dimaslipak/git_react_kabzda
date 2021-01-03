@@ -1,0 +1,7 @@
+.logoImg {
+    width: 50px;
+}
+.header{
+    grid-area: header;
+    background-color: darkseagreen;
+}

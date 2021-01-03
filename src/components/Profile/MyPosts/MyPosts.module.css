@@ -1,0 +1,8 @@
+.profileMainImg {
+
+}
+
+.item {
+    grid-area: profile;
+    background-color: antiquewhite;
+}

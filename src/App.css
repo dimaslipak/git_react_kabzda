@@ -2,27 +2,10 @@
   display: grid;
   grid-template-areas:
 "header header"
-"nav content ";
+"nav profile ";
   grid-template-rows: 60px 1fr;
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
-  width: 1200px;
+  width: 1200px ;
 }
-.logoImg {
-  width: 50px;
-}
-.contentMainImg {
 
-}
-.header{
-  grid-area: header;
-  background-color: darkseagreen;
-}
-.nav {
-  grid-area: nav;
-  background-color: aquamarine;
-}
-.content {
-  grid-area: content;
-  background-color: antiquewhite;
-}
